@@ -57,7 +57,7 @@ This our Sem-3 mini project.
 
 - Create Dataset (In this project I have made my own dataset)
 - Train the dataset
-- Predicate the letters
+- Predicate the sign
 
 
 ## Create Dataset
