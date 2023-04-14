@@ -68,7 +68,7 @@ This our Sem-3 mini project.
 
 ![App Screenshot](https://github.com/devgeek2700/Sign-Language-recognition-using-openCV/blob/master/Output/trainning_img.png?raw=true)
 
-## Predicate the gestures
+## Predicate the sign
 
 ![App Screenshot](https://github.com/devgeek2700/Sign-Language-recognition-using-openCV/blob/master/Output/output_letter.png?raw=true)
 
