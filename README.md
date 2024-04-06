@@ -72,14 +72,19 @@ This our Sem-3 mini project.
 
 ![App Screenshot](https://github.com/devgeek2700/Sign-Language-recognition-using-openCV/blob/master/Output/output_letter.png?raw=true)
 
-## 
-
 
 
 ## Demo video
 
 ![App Screenshot](https://github.com/devgeek2700/Sign-Language-recognition-using-openCV/blob/master/Output/srl_output_demo_gif.gif?raw=true)
 
+## Team Members
+
+| S.No. | Name                | Role                   | GitHub Username      |
+|-------|---------------------|------------------------|----------------------|
+| 1.    |  Neha Singh  | Full Stack Web Developer        | @devgeek2700         |
+| 2.    | Shalaka Kadam      | Research and Design   | @shalaka2603  |
+| 3.    | Amulya Shetty      | Product Designer   | @AmulyaShetty11      |
 
 
 
